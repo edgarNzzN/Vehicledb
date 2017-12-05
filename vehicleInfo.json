@@ -1,0 +1,29 @@
+{
+    "ErrorMessages": [],
+    "successMessage": ["true"],
+    "data": {
+        "successMessage": "true",
+        "server": "Ed Computer",
+        "name": "Local Zenuity",
+        "address": "null",
+        "vehicleList": [
+            {
+                "ip": "192.0.1.2",
+                "owner": "Jon Vehicle",
+                "type": "Volvo",
+                "latitude": "48.966777",
+                "longitude": "-84.2766",
+                "status": "OK"
+                        
+            },
+            {
+                 "ip": "123",
+                 "name": "Ryan Vehicle",
+                 "type": "Fiat 500",
+                 "latitude": "123.56",
+                 "longitude": "-84.2766",
+                 "status": "Not ok"
+            }
+        ]
+    }
+}
