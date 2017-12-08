@@ -17,11 +17,11 @@
                         
             },
             {
-                 "ip": "123",
+                 "ip": "195.67.0.1",
                  "name": "Ryan Vehicle",
                  "type": "Fiat 500",
-                 "latitude": "123.56",
-                 "longitude": "-84.2766",
+                 "latitude": "42.491647",
+                 "longitude": "-83.324670",
                  "status": "Not ok"
             }
         ]
